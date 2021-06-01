@@ -14,6 +14,7 @@ public class SampleTestone {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.flipkart.com");
 		Thread.sleep(2000);
+		System.out.println("again changes done by pa1 in testone file")
 		driver.close();
 
 	}
