@@ -8,7 +8,10 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class SampleTest {
 @Test
-	public void sampletest() throws InterruptedException {
+	public void sampletest() throws InterruptedException 
+	{
+		System.out.println("pa1 done the changes");
+		System.out.println("pa1 done the changes");
 	WebDriverManager.chromedriver().setup();
 	WebDriver driver=new ChromeDriver();
 	driver.get("https://www.facebook.com");
