@@ -13,6 +13,7 @@ public class SampleTest {
 	WebDriver driver=new ChromeDriver();
 	driver.get("https://www.facebook.com");
 	Thread.sleep(2000);
+	System.out.println("pa1 done the changes");
 	driver.close();
 
 	}
