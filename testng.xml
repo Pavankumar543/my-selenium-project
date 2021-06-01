@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.pavan.businessscripts.SampleTest"/>
+       <class name="com.pavan.businessscripts.SampleTestone"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
