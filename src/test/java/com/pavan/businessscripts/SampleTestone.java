@@ -15,7 +15,8 @@ public class SampleTestone {
 		driver.get("https://www.flipkart.com");
 		Thread.sleep(2000);
 		System.out.println("again changes done by pa1 in testone file");
-		System.out.println("MORE changes done by ORIGINAL PERSONin testone file");
+		System.out.println("MORE changes done by ORIGINAL PERSON in testone file");
+		System.out.println("MORE changes done by ORIGINAL PERSON in testone file");
 		driver.close();
 
 	}
