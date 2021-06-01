@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="49628" started-at="2021-06-01T06:15:48Z" finished-at="2021-06-01T06:16:37Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="49628" started-at="2021-06-01T06:15:48Z" finished-at="2021-06-01T06:16:37Z">
+      <class name="com.pavan.businessscripts.SampleTest">
+        <test-method status="PASS" signature="sampletest()[pri:0, instance:com.pavan.businessscripts.SampleTest@3fb6a447]" name="sampletest" duration-ms="49607" started-at="2021-06-01T11:45:48Z" finished-at="2021-06-01T11:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampletest -->
+      </class> <!-- com.pavan.businessscripts.SampleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
